@@ -5,7 +5,7 @@ from datetime import datetime
 st.title("Simple Streamlit App")
 
 # Display a welcome message
-st.write("Welcome to this simple Streamlit app! edited by github by channabasav")
+st.write("Welcome to this simple Streamlit app!....")
 
 # Create a text input for the user's name
 name = st.text_input("What's your name?")
